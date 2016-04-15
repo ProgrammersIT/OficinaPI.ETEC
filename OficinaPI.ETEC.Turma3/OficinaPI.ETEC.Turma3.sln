@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OficinaPI.ETEC.Turma3", "OficinaPI.ETEC.Turma3\OficinaPI.ETEC.Turma3.csproj", "{4C487C9B-99AE-40B7-8FD4-3893E8ABB7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OficinaPI.ETEC.Turma3.Tests", "OficinaPI.ETEC.Turma3.Tests\OficinaPI.ETEC.Turma3.Tests.csproj", "{228408F5-8CDE-46B9-9D8B-085CC8FE2EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C487C9B-99AE-40B7-8FD4-3893E8ABB7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C487C9B-99AE-40B7-8FD4-3893E8ABB7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C487C9B-99AE-40B7-8FD4-3893E8ABB7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C487C9B-99AE-40B7-8FD4-3893E8ABB7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228408F5-8CDE-46B9-9D8B-085CC8FE2EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228408F5-8CDE-46B9-9D8B-085CC8FE2EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228408F5-8CDE-46B9-9D8B-085CC8FE2EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228408F5-8CDE-46B9-9D8B-085CC8FE2EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
