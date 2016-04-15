@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Modules>
+    <Module skippedDueTo="Filter" hash="78-86-CA-91-BC-E9-44-44-8A-FE-35-6A-EA-51-55-5A-F6-5A-42-46">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F2-88-6F-25-4E-20-75-4B-26-EB-92-FB-BB-B2-61-C4-AE-3C-02-C0">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\nunit-console-x86.exe</FullName>
+      <ModuleName>nunit-console</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="2A-C4-E5-DE-F3-EE-AD-84-E1-65-84-CC-15-90-76-96-E7-01-44-4E">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="74-74-F6-87-59-E1-5F-4F-5F-5E-6E-82-50-E8-E2-46-D4-86-15-76">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9C-DB-95-DC-25-D5-38-7E-C2-3A-20-8F-14-5D-A9-56-2A-D7-00-E3">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="EE-77-8B-34-FE-47-61-EA-AD-62-7D-B3-79-79-9C-B7-64-F3-12-03">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="14-44-50-38-34-98-5F-C6-45-8B-50-B5-CF-D7-E1-0A-28-8F-5E-E8">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="0F-6F-F3-F5-1C-3A-A7-26-E2-D9-16-C9-A4-9C-AD-C3-B6-CA-24-A2">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="EE-77-8B-34-FE-47-61-EA-AD-62-7D-B3-79-79-9C-B7-64-F3-12-03">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="14-44-50-38-34-98-5F-C6-45-8B-50-B5-CF-D7-E1-0A-28-8F-5E-E8">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Program Files (x86)\SharpDevelop\4.4\bin\Tools\NUnit\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="CC-1D-05-EE-28-5A-0A-22-C2-FA-08-2D-2E-EF-DB-53-EE-27-77-32">
+      <FullName>C:\Users\deividi.paganini\AppData\Local\Temp\nunit20\ShadowCopyCache\8132_635962595819535741\Tests_7938125\assembly\dl3\a303f0fd\3f374c6a_9e96d101\OficinaPI.ETEC.Turma2.Tests.dll</FullName>
+      <ModuleName>OficinaPI.ETEC.Turma2.Tests</ModuleName>
+      <Files>
+        <File uid="1" fullPath="c:\Users\deividi.paganini\Documents\SharpDevelop Projects\OficinaPI.ETEC.Turma2\OficinaPI.ETEC.Turma2.Tests\TestesBanheiro.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <FullName>OficinaPI.ETEC.Turma2.Tests.TestesBanheiro</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void OficinaPI.ETEC.Turma2.Tests.TestesBanheiro::TestaTemUmMictorioQueEstaVazio()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="1" ordinal="0" offset="0" sl="10" sc="47" el="10" ec="48" />
+                <SequencePoint vc="1" uspid="2" ordinal="1" offset="1" sl="12" sc="4" el="12" ec="34" />
+                <SequencePoint vc="1" uspid="3" ordinal="2" offset="7" sl="13" sc="4" el="15" ec="6" />
+                <SequencePoint vc="1" uspid="4" ordinal="3" offset="22" sl="17" sc="4" el="17" ec="41" />
+                <SequencePoint vc="1" uspid="5" ordinal="4" offset="30" sl="19" sc="4" el="19" ec="55" />
+                <SequencePoint vc="1" uspid="6" ordinal="5" offset="37" sl="21" sc="3" el="21" ec="4" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="1" ordinal="0" offset="0" sl="10" sc="47" el="10" ec="48" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void OficinaPI.ETEC.Turma2.Tests.TestesBanheiro::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="7" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="54-FB-2D-1C-0E-08-34-52-98-7D-A6-8D-69-15-AF-69-77-B0-93-34">
+      <FullName>C:\Users\deividi.paganini\AppData\Local\Temp\nunit20\ShadowCopyCache\8132_635962595819535741\Tests_7938125\assembly\dl3\0638143e\00aeaf30_9b96d101\nunit.framework.dll</FullName>
+      <ModuleName>nunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9C-DB-95-DC-25-D5-38-7E-C2-3A-20-8F-14-5D-A9-56-2A-D7-00-E3">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="A8-FF-A8-31-C3-80-A1-F5-4C-44-97-8C-24-6D-B6-4C-81-AF-62-B8">
+      <FullName>C:\Users\deividi.paganini\AppData\Local\Temp\nunit20\ShadowCopyCache\8132_635962595819535741\Tests_7938125\assembly\dl3\4bb3014e\3fa39424_9e96d101\OficinaPI.ETEC.Turma2.dll</FullName>
+      <ModuleName>OficinaPI.ETEC.Turma2</ModuleName>
+      <Files>
+        <File uid="3" fullPath="c:\Users\deividi.paganini\Documents\SharpDevelop Projects\OficinaPI.ETEC.Turma2\OficinaPI.ETEC.Turma2\Banheiro.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <FullName>OficinaPI.ETEC.Turma2.Banheiro</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void OficinaPI.ETEC.Turma2.Banheiro::AdicionarMictorio(OficinaPI.ETEC.Turma2.Mictorio)</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="8" ordinal="0" offset="0" sl="7" sc="51" el="7" ec="52" />
+                <SequencePoint vc="1" uspid="9" ordinal="1" offset="1" sl="9" sc="3" el="9" ec="4" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="8" ordinal="0" offset="0" sl="7" sc="51" el="7" ec="52" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Int32 OficinaPI.ETEC.Turma2.Banheiro::QuantasPessoasPodemEntrar()</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="10" ordinal="0" offset="0" sl="10" sc="41" el="10" ec="42" />
+                <SequencePoint vc="1" uspid="11" ordinal="1" offset="1" sl="11" sc="4" el="11" ec="13" />
+                <SequencePoint vc="1" uspid="12" ordinal="2" offset="5" sl="12" sc="3" el="12" ec="4" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="10" ordinal="0" offset="0" sl="10" sc="41" el="10" ec="42" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void OficinaPI.ETEC.Turma2.Banheiro::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="13" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <FullName>OficinaPI.ETEC.Turma2.Mictorio</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void OficinaPI.ETEC.Turma2.Mictorio::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="14" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>
